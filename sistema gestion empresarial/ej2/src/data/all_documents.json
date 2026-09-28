@@ -1,0 +1,26 @@
+[
+    {
+        "alg": "SHA-256",
+        "type": "DEPOSIT",
+        "project_id": "5d41402abc4b2a76b9719d911017c592",
+        "file_name": "testfile.pdf",
+        "register_date": 1773187200.0,
+        "document_signature": "e44471e5459df8dd3829c79f700a478f556ff044d1e18fcd40a1f9a0d29a4176"
+    },
+    {
+        "alg": "SHA-256",
+        "type": "DEPOSIT",
+        "project_id": "5d41402abc4b2a76b9719d911017c592",
+        "file_name": "TESTFILE.docx",
+        "register_date": 1773187200.0,
+        "document_signature": "2e9dc92ad08c264877cb0d7cada49042b10e48e25b32a60dbb8ae9ae15614e3d"
+    },
+    {
+        "alg": "SHA-256",
+        "type": "DEPOSIT",
+        "project_id": "5d41402abc4b2a76b9719d911017c592",
+        "file_name": "12345678.xlsx",
+        "register_date": 1773187200.0,
+        "document_signature": "c2ff45449355520cf9f34f16641098f30e4a7ccbc04e6bc1f18e5450331eafa0"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "company_cif": "A58818501",
+        "project_description": "valid text",
+        "project_acronym": "VALIDACRO",
+        "project_budget": 1000000.0,
+        "department": "HR",
+        "starting_date": "18/02/2027",
+        "time_stamp": 1773187200.0,
+        "project_id": "f9645c9ae7e04ba3f6e0cd1c8309e59f"
+    },
+    {
+        "company_cif": "A58818501",
+        "project_description": "valid textt",
+        "project_acronym": "VALIDACROX",
+        "project_budget": 50000.0,
+        "department": "FINANCE",
+        "starting_date": "12/03/2026",
+        "time_stamp": 1773187200.0,
+        "project_id": "0a4a56af0c094d01f85ff7ce610c39f8"
+    },
+    {
+        "company_cif": "A58818501",
+        "project_description": "valid text with 30 charactersx",
+        "project_acronym": "VALID",
+        "project_budget": 999999.99,
+        "department": "LEGAL",
+        "starting_date": "11/03/2026",
+        "time_stamp": 1773187200.0,
+        "project_id": "0de00261a48ca4f899cc5e4ddb91106c"
+    },
+    {
+        "company_cif": "A58818501",
+        "project_description": "valid text",
+        "project_acronym": "VALIDACRO",
+        "project_budget": 50000.0,
+        "department": "LOGISTICS",
+        "starting_date": "31/12/2027",
+        "time_stamp": 1773187200.0,
+        "project_id": "4619d1faadfa6e344a964f3a7c86c219"
+    },
+    {
+        "company_cif": "A58818501",
+        "project_description": "valid text with 29 characters",
+        "project_acronym": "VALIDACRO",
+        "project_budget": 50000.0,
+        "department": "HR",
+        "starting_date": "01/01/2027",
+        "time_stamp": 1773187200.0,
+        "project_id": "3a6e4effd520c3cc40ef5510f15378f1"
+    }
+]
